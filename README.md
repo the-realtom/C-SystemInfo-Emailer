@@ -1,4 +1,6 @@
 # C-SystemInfo-Emailer
+Gathers the system specs/information of the computer and sends it your (or any) email address.
+
 This program relies on the EASendMail SMTP components available here :
 https://www.emailarchitect.net/webapp/download/easendmail.exe
 
